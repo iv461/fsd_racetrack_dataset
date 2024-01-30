@@ -1,6 +1,6 @@
 # FSD Racetrack Dataset
 
-![Alt text](dataset_summary.png)
+![Alt text](images/dataset_summary.png)
 This is an open dataset from StarkStrom Augsburg of various racetrack layouts used in Formula Student Driverless. 
 We collected this data during test drives using real sensor data, i.e. LiDAR-sensors. 
 Currently it contains 9 tracks with their two boundaries and the SLAM-maps. 
